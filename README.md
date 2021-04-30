@@ -15,9 +15,6 @@ on how to use Git and Github together.
 
 ## Getting Started
 
-To get started with this project, just 'clone' this repository.
-
-## Pulling without Rebase
-## Pulling without Rebase Actual
+To get started with this project, just 'clone' this repository
 
 ## Pulling with Rebase
