@@ -20,3 +20,5 @@ To get started with this project, just 'clone' this repository
 ## Pulling with Rebase
 
 ## 1st commit
+
+## 3rd commit
