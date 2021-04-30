@@ -19,3 +19,5 @@ To get started with this project, just 'clone' this repository.
 
 ## Pulling without Rebase
 ## Pulling without Rebase Actual
+
+## Pulling with Rebase
