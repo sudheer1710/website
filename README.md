@@ -18,5 +18,3 @@ on how to use Git and Github together.
 To get started with this project, just 'clone' this repository
 
 ## Pulling with Rebase
-
-## 5th commit
