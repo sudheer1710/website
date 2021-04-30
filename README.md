@@ -19,6 +19,4 @@ To get started with this project, just 'clone' this repository
 
 ## Pulling with Rebase
 
-## 3rd commit
-
 ## 5th commit
